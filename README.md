@@ -1,5 +1,3 @@
-
-
 ## Overview
 This project is a simple interactive Pac-Man-like game created using HTML5 Canvas and JavaScript. The game allows the user to control a Pac-Man character using the arrow keys on the keyboard. The Pac-Man character moves in a 2D canvas, and its mouth opens and closes while moving, mimicking the iconic look of Pac-Man.
 
